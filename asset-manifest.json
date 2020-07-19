@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/memeTing/meme-app/static/js/main.e6c02c21.chunk.js",
+    "main.js.map": "/memeTing/meme-app/static/js/main.e6c02c21.chunk.js.map",
+    "runtime-main.js": "/memeTing/meme-app/static/js/runtime-main.0e468acc.js",
+    "runtime-main.js.map": "/memeTing/meme-app/static/js/runtime-main.0e468acc.js.map",
+    "static/js/2.17defea0.chunk.js": "/memeTing/meme-app/static/js/2.17defea0.chunk.js",
+    "static/js/2.17defea0.chunk.js.map": "/memeTing/meme-app/static/js/2.17defea0.chunk.js.map",
+    "index.html": "/memeTing/meme-app/index.html",
+    "precache-manifest.159b9c4fd7170ab3340774acffd9f42e.js": "/memeTing/meme-app/precache-manifest.159b9c4fd7170ab3340774acffd9f42e.js",
+    "service-worker.js": "/memeTing/meme-app/service-worker.js",
+    "static/js/2.17defea0.chunk.js.LICENSE.txt": "/memeTing/meme-app/static/js/2.17defea0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e468acc.js",
+    "static/js/2.17defea0.chunk.js",
+    "static/js/main.e6c02c21.chunk.js"
+  ]
+}
